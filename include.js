@@ -2,6 +2,7 @@ let cards = [
     //  Add your card in this section
     //  Follow this example format:
     //  ["Art Name", "Page URL", "Image URL", "Your Name", "Your Github Link"],
+    ["BeatzOfHeart", "./Art/Mhkasif-beatz/index.html", "./Art/Mhkasif-beatz/beatsOfHeart.png", "MhkAsif(Haseeb)", "https://github.com/mhkasif" ],
     ["Shy Rabbit", "./Art/teits/index.html", "./Art/teits/preview.png", "Teits", "https://github.com/teitss"],
     ["Pikachu", "./Art/julesdowork/index.html", "./Art/julesdowork/pikachu.png", "Julesdowork", "https://github.com/Julesdowork"],
     ["CSS Ace", "./Art/TinatheAce/ace.html", "./Art/TinatheAce/ace.png", "Tina the Ace", "https://github.com/nnh242"],
@@ -92,7 +93,7 @@ let cards = [
     ["Ghost", "./Art/toserjude/ghost.html", "./Art/toserjude/ghost.jpg", "toserjude", "https://github.com/toserjude"],
     ["JS Logo", "./Art/Thulasi/index.html", "./Art/Thulasi/js-logo.PNG", "ThulasiA", "https://github.com/ThulasiA"],
     ["Black Cat", "./Art/toserjude/blackCat.html", "./Art/toserjude/cat.jpg", "toserjude", "https://github.com/toserjude"],
- 
+
     ["Minimalist Hover and Move Away", "./Art/JoyceMinimalistArt/index.html", "./Art/JoyceMinimalistArt/joycemini.png", "Joyce Wambui", "https://github.com/joycewambui"],
     ["Baymax", "./Art/dziukers/index.html", "./Art/dziukers/Baymax.JPG", "dziukers", "https://github.com/dziukers"],
     ["Smart Phone", "./Art/chathurasam/smartphone.html", "./Art/chathurasam/screenshot.png", "Chathura Samarajeewa", "https://github.com/ChathuraSam"],
